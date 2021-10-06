@@ -2,9 +2,6 @@
 #include <fstream>
 #include <string>
 
-// Time measurement import
-#include <chrono>
-
 // Header file import
 #include "SortingAlgorithms.h"
 
